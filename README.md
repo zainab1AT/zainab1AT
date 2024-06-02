@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/zainab1AT/">
-    <img src="https://skillicons.dev/icons?i=py,java,spring,reactjs, nodejs," />
+    <img src="https://skillicons.dev/icons?i=py,java,spring,react,mysql" />
   </a>
 </p>
 
@@ -16,11 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/zainab1AT/">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/zainab1AT/">
