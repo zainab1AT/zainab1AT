@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/zainab1AT/">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,maven,javascript,php,junit" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,maven,javascript,php,testing" />
   </a>
 </p>
 
