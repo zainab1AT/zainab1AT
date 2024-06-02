@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **java, data structures and algorithms**
 
-- 📫 How to reach me **zainabatwa003@gmail.com**
+- 📫 How to reach me **zainabatwa003@gmail.com** / **www.linkedin.com/in/zainab-atwa**
 
 ##
 
