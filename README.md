@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/zainab1AT/">
-    <img src="https://skillicons.dev/icons?i=postman,eclipse,vscode,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=postman,eclipse,vscode,stackoverflow,figma" />
   </a>
 </p>
 <!--
