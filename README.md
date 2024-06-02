@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://github.com/zainab1AT/">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,maven" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,maven,javascript" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zainab1AT/">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,sql" />
   </a>
 </p>
 
