@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="https://github.com/zainab1AT/">
-    <img src="https://skillicons.dev/icons?i=py,java,spring" />
+    <img src="https://skillicons.dev/icons?i=py,java,spring,reactjs, nodejs," />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zainab1AT/">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,maven,javascript" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,maven,javascript,php,junit" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zainab1AT/">
-    <img src="https://skillicons.dev/icons?i=mysql,sql" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
