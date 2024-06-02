@@ -1,9 +1,57 @@
-### Hi there 👋
+<h3 align="center">Welcome to my GitHub Profile</h3>
 
+<h2 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Cascadia&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Zainab+Atwa+" alt="Typing SVG" /></a></h2>
 
-<h1 align="left" dir="auto"><a id="user-content-hey--whats-up" class="anchor" aria-hidden="true" href="#hey--whats-up"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Hi<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> I’m Zainab?</h1>
--    <br>
+## Languages, Frameworks, DBs and Other Tools
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<p align="center">
+  <a href="https://github.com/zainab1AT/">
+    <img src="https://skillicons.dev/icons?i=py,java,spring" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/zainab1AT/">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,maven" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zainab1AT/">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zainab1AT/">
+    <img src="https://skillicons.dev/icons?i=postman,eclipse,vscode,stackoverflow" />
+  </a>
+</p>
+<!--
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=black)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+<!--
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white) -->
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=MeqdadDev&count_private=true&show_icons=true&include_all_commits=true&theme=light) 
+</p>-->
+
+<div style="display: flex; align-items: flex-start; align: center">
+<p align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainab1AT)](https://github.com/zainab1AT)
+
+</p>
+
+</div>
