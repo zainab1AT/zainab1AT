@@ -1,14 +1,20 @@
 <h3 align="center">Welcome to my GitHub Profile   <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h3>
 
 <h2 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Cascadia&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Zainab+Atwa+" alt="Typing SVG" /></a></h2>
+<h3  align="center"> Zainab Atwa | Passionate Software Engineer from Palestine </h3>
+<p>Join me on my journey as I contribute to exciting projects and continuously expand my skill set. Let’s create something amazing together!</p>
+
+<br>
 
 - 🌱 I’m currently learning **Docker, React, and AWS**
 
 - 💬 Ask me about **java, data structures and algorithms**
 
+- 🎓 Pursuing a Bachelor's degree in Software Engineering at Bethlehem University
+
 - 📫 How to reach me **zainabatwa003@gmail.com** / **www.linkedin.com/in/zainab-atwa**
 
-##
+<br>
 
 </p>
 
