@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Docker, React, and AWS**
 
-- 💬 Ask me about **java, data structures and algorithms**
+- 💬 Ask me about **java, data structures and OOP**
 
 - 🎓 Pursuing a Bachelor's degree in Software Engineering at Bethlehem University
 
