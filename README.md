@@ -6,9 +6,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **Docker, React, and AWS**
+- 🌱 I’m currently learning **.Net, Flutter, and AWS**
 
-- 💬 Ask me about **java, data structures and OOP**
+- 💬 Ask me about **java, springboot and nodejs**
 
 - 🎓 Pursuing a Bachelor's degree in Software Engineering at Bethlehem University
 
