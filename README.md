@@ -12,7 +12,7 @@
 
 - 🎓 Pursuing a Bachelor's degree in Software Engineering at Bethlehem University
 
-- 📫 How to reach me **zainabatwa003@gmail.com** / **www.linkedin.com/in/zainab-atwa**
+- 📫 How to reach me **zainabatwa003@gmail.com** / **https://www.linkedin.com/in/zainab-atwa-3aa07525a/**
 
 <br>
 
