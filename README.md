@@ -6,13 +6,13 @@
 
 <br>
 
-- 🌱 I’m currently learning **.Net, Flutter, and AWS**
+- 🌱 I’m currently learning **AI and AWS**
 
 - 💬 Ask me about **java, springboot and nodejs**
 
 - 🎓 Pursuing a Bachelor's degree in Software Engineering at Bethlehem University
 
-- 📫 How to reach me **zainabatwa003@gmail.com** / **https://www.linkedin.com/in/zainab-atwa-3aa07525a/**
+- 📫 How to reach me **engzainabatwa1@gmail.com** / **https://www.linkedin.com/in/zainab-atwa-3aa07525a/**
 
 <br>
 
